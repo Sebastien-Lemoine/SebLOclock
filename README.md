@@ -2,61 +2,35 @@
 ![GitHub followers](https://img.shields.io/github/followers/SebLOclock?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/SebLOclock?style=social)
 
-# 👋 Bonjour, je suis Sébastien, Responsable de Formation dans la Tech
+# 👋 Sébastien Lemoine
 
-En tant que Responsable de la formation au sein de O'clock, j’ai à cœur d'accompagner les futurs professionnels de la tech vers la réussite en leur transmettant les compétences nécessaires. Ce profil GitHub est un espace où je partage une partie de mon travail, en illustrant les meilleures pratiques que j'encourage chez nos apprenants. Ici, vous trouverez des projets, des outils, et des exemples concrets de ma contribution au domaine de la tech et de la pédagogie.
+Formateur IT indépendant et développeur, fondateur de **[Knowing Software](https://knowing-software.fr)**.
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=SebLOclock&show_icons=true&theme=radical)
+Après 10 ans en formation (organisme de formation, école tech), je forme aujourd'hui en indépendant sur quatre domaines : développement, infrastructure & cybersécurité, électronique, IA/data. Je code aussi. Les deux activités se nourrissent l'une l'autre : ce que je transmets, je le pratique.
 
-## 🚀 À Propos de Moi
+## 🛠️ Ce que je fais
 
-- 🎓 Responsable de la mise en oeuvre des formations
-- 💡 Passionné par l'accompagnement des talents en devenir dans le monde de la tech
-- 👥 Spécialisé dans la création de projets pratiques et en phase avec les besoins du marché
-- 🛠️ Stack technique assez large mais grand adepte du typage fort
-- 🌱 Toujours à la recherche des dernières innovations en tech et en méthodes pédagogiques
+- **Formation** : conception et animation de formations pour des organismes de formation (OF), en subcontracting. Dev web, infra/cyber, électronique, IA/data.
+- **Développement** : projets perso et outils, en continu, pas juste des slides.
 
-## 💼 Projets et Contributions
+## 💻 Projets actifs
 
-- 🗂️ [Protfolio](https://sebloclock.github.io)
-- 💻 [PMCode](https://marketplace.visualstudio.com/items?itemName=SebLOclock.pmcode)
+- **[PMCode](https://marketplace.visualstudio.com/items?itemName=SebLOclock.pmcode)** : extension VS Code
+- **SikAmp** : Un lecteur audio à l'ancienne ( projet en cours de dev) 
+- **OneCommandWPContainer** : outil de conteneurisation WordPress
 
-Je suis convaincu qu'un profil GitHub peut être un véritable portfolio professionnel, illustrant les compétences techniques et l'éthique de travail d'un développeur. J’encourage nos étudiants à enrichir régulièrement leur profil GitHub pour démontrer leur progression, leurs projets, et leur maîtrise des standards de développement.
+Le reste est sur mes repos, régulièrement mis à jour.
 
-![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=SebLOclock&layout=compact&theme=radical)
+## 📫 Me contacter
 
-
-## 🎯 Pourquoi GitHub Intéresse les Recruteurs
-
-GitHub est un outil puissant qui offre aux recruteurs une vue d'ensemble sur :
-
-- **Le Niveau de Compétence** : En examinant des échantillons de code et des contributions à des projets, les recruteurs peuvent évaluer la maîtrise technique.
-- **La Rigueur et la Constance** : Un historique de commits régulier et une qualité de travail constante sont révélateurs d’une grande rigueur.
-- **Les Capacités de Collaboration** : La contribution à des projets open-source ou le travail en équipe démontrent les aptitudes à collaborer efficacement.
-
-Encourager les étudiants à entretenir un profil GitHub attractif et soigné peut significativement renforcer leurs chances sur le marché de l’emploi. Un profil GitHub bien organisé et actif parle souvent plus qu’un CV !
-
-## 📫 Me Contacter
-
-Je suis toujours ouvert à des discussions autour de la tech, de la pédagogie, et des innovations en formation. Connectez-vous avec moi :
-
-- 🟦 [Profil Linkedin](https://www.linkedin.com/in/s%C3%A9bastien-lemoine-679b3b52/)
-- 📧 Email : sebastien.lemoine@oclock.io
----
-
-En structurant mon profil de cette manière, je souhaite montrer l'exemple à nos apprenants et offrir une présence claire et professionnelle aux recruteurs intéressés par nos programmes.
-
-## 🌟 Connectons-nous, Collaborons et Innovons !
-
-N'hésitez pas à explorer mes repositories, et à me contacter pour échanger. Que vous soyez étudiant curieux ou recruteur en quête de talents tech, ce sera un plaisir de vous lire !
+- ✉️ [Email](mailto://sebastien@knowing-software.fr)
+- 🟦 [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-lemoine-679b3b52/)
+- 🌐 [knowing-software.fr](https://knowing-software.fr)
+- ✍️ [Blog](https://sebastienlemoine.fr)
 
 ---
 
-🔗 [Ecole O'clock](https://oclock.io) - L'école Tech qui prend soin de votre avenir, où que vous soyez !
-
-
-
-
+Basé à Margny-lès-Compiègne, mobile sur le nord de la région parisienne.
 
 
 
