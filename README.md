@@ -1,4 +1,4 @@
-![banner](./banner.png)
+![banner](./banner.jpg)
 ![GitHub followers](https://img.shields.io/github/followers/SebLOclock?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/SebLOclock?style=social)
 
